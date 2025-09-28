@@ -1,4 +1,4 @@
-# Remember Me — AI Care Dashboard
+# Remember Me — Real‑Time Alzheimer’s Care Monitoring 
 
 An AI-powered care monitoring dashboard for Alzheimer's patients and their families. This is a full-stack implementation with a Python Flask backend, WebSocket real-time updates, and Arduino integration for physical sensors.
 
