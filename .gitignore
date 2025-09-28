@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+backend/.env
+
+# Virtual environments
+venv/
+backend/venv/
+.env*/
+
+# Node
+node_modules/
+**/node_modules/
+
+# Logs and runtime files
+*.log
+backend/patient_log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
